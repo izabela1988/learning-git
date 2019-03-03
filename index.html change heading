@@ -1,0 +1,249 @@
+﻿<!DOCTYPE html>
+ <html lang="pl">
+ <head>
+    <meta charset="UTF-8">
+    <title>Moduł 3</title>
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700Rubik:400,700" rel="stylesheet">
+ </head>
+   
+    
+ <body>
+        <header>
+                <nav class="container">
+                <div class="row">
+            		<img src="https://placeholdit.imgix.net/~text?txtsize=8&txt=150%C3%9730&w=150&h=30" alt="LOGO">
+            		<ul>
+            			<li><a href=”#”>Inwestycje</a></li>
+            			<li><a href=”#”>Media</a></li>
+            			<li><a href=”#”>Wnioski</a></li>
+            		</ul>
+                </div>
+                </nav>
+        </header>
+        <section class="hero">
+            <div class="slogan">
+                <h1>Zmaina nagłówka</h1>
+                    <p>dlatego warto nam zaufać !</p>
+            </div>
+        </section>
+        <section class="container figure">
+        	<div class="row">
+        		    <div class="col-4">
+        		        <button class="icon-btn cogs"><i class="fas fa-cogs"></i></button>
+        		        <h2>Emerytury</h2>
+        		            <p>in nisl nisi scelerisque eu ultrices vitae<br> auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis</p>
+        		    </div>
+                    <div class="col-4">
+                        <button class="icon-btn laptop"><i class="fas fa-laptop"></i></button>
+                        <h2 class="niebieski">Ubezpieczenia</h2>
+                           <p>in nisl nisi scelerisque eu ultrices vitae<br> auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis</p>
+                    </div>
+                    <div class="col-4">
+                        <button class="icon-btn globe"><i class="fas fa-globe"></i></button>
+                        <h2>Zmiana drugiego nagłówka</h2>
+                         <p>in nisl nisi scelerisque eu ultrices vitae<br> auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis</p>
+                    </div>
+            </div>
+        </section>
+        <section class="words">
+                <h3>Czy naprawde warto ?</h3>
+                    <p>in nisl nisi scelerisque eu ultrices vitae<br> auctor eu augue ut lectus arcu bibendum at varius vel pharetra vel turpis</p>
+        </section>
+        <section class="gallery">
+            <div class="row">
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                   <img  src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img  src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+            </div>
+             <div class="row">
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+                <div class="col-2">
+                    <div class="fonts">
+                        <i class="fa fa-camera-retro fa-lg"></i>
+    		            <i class="fa fa-search fa-lg"></i>
+                    </div>
+                    <img src="http://i.imgur.com/KUt6tGb.jpg" alt="Jars on the fence">
+                </div>
+            </div>
+        </section>
+        <section class="team">
+            <div class="row">
+                <div class="col-3">
+                    <button class="btn one"></button>
+                    <p>Mary</p>
+                </div>
+                 <div class="col-3">
+                    <button class="btn two"></button>
+                    <p>Judy</p>
+                </div>
+                 <div class="col-3">
+                    <button class="btn three"></button>
+                    <p>Martin</p>
+                </div>
+                 <div class="col-3">
+                    <button class="btn four"></button>
+                    <p>John</p>
+                </div>
+            </div>
+        </section>
+        <section class="nights">
+            <div class="row">
+                <div class="col-4">
+                   <img src="https://cdn.pixabay.com/photo/2018/11/11/16/51/ibis-3809147__340.jpg" alt="flaming">
+                 </div>
+                <div class="col-8">
+                    <h4>Lorem Ipsum</h4>
+                        <p>Lorem ipsum dolor sit amet,<br> consectetur adipiscing elit. Fusce at<br> nunc mauris.> Ut efficitur non enim et <br>fringilla. Etiam convallis mi est, sit amet<br> eleifend magna tincidunt id. Aenean ac ex pulvinar leo consequat fermentum. Duis tempus rutrum quam faucibus tristique. Donec sodales interdum ipsum.</p>
+                </div>
+            </div>
+        </section>
+        <section class="numbers">
+            <div class="row">
+                <div class="col-3">
+                    <h5>4589</h5>
+                        <p>Happy Clients</p>
+                </div>
+                 <div class="col-3">
+                    <h5>18550</h5>
+                        <p>Projects</p>
+                </div>
+                 <div class="col-3">
+                    <h5>2008</h5>
+                        <p>Since</p>
+                </div>
+                 <div class="col-3">
+                    <h5>25000</h5>
+                        <p>Followers</p>
+                </div>
+            </div>
+        </section>
+        <section class="footer">
+            <div class="row">
+                <div class="col-4">
+                    <h5>About Us</h5>
+                        <p>nisl nisi scelerisque eu ultrices<br> vitae auctor eu augue ut lectus arcu <br>bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a</p>
+                </div>
+                <div class="col-4">
+                    <h5>Get in Touch</h5>
+                    <div class="row">
+                        <div class="col-4">
+                            <p>ADDRESS</p>
+                        </div>
+                        <div class="col-8">
+                            <p>26 Bartley Road<br>Wimborne 5678</p>
+                        </div>
+                    </div>
+                     <div class="row">
+                        <div class="col-4">
+                        <p>PHONE</p>
+                        </div>
+                        <div class="col-8">
+                            <p>012002-43-73-83</p>
+                        </div>
+                    </div>
+                     <div class="row">
+                        <div class="col-4">
+                            <p>MAIL</p>   
+                        </div>
+                        <div class="col-8">
+                            <p>miglanc6x@.com</p>
+                        </div>
+                    </div>
+                </div>
+               
+                  <div class="col-4">
+                    <h5> Media</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget<br>fringilla lectus, interdum maximus lectus.</p>
+                <button><i class="fab fa-facebook-square"></i></button>
+                <button><i class= "fab fa-twitter-square"></i></button>
+                <button><i class="fab fa-google-plus-square"></i></button>
+                <button><i class=" fab fa-snapchat"></i></button>
+                <button><i class="fab fa-instagram"></i></button>
+                <button><i class="fab fa-youtube-square"></i></button>
+                </div>
+            
+            </div>
+        
+        
+        </section>
+       
+        
+</body> 
+     
+    
+</html>
